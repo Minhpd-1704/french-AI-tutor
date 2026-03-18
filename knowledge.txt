@@ -1,0 +1,1016 @@
+=== PHẦN 1: QUY TẮC NGỮ PHÁP CỐT LÕI ===
+
+Quy tắc 1: Dấu câu và Chủ ngữ (Punctuation & Subject)
+Trong tiếng Pháp, tuyệt đối không đặt dấu phẩy (virgule) ngăn cách giữa chủ ngữ và động từ chính, trừ khi có một mệnh đề phụ nằm giữa. Ví dụ: "Un coupable idéal, est..." là sai, phải sửa thành "Un coupable idéal est...".
+
+Quy tắc 2: Dấu trọng âm (Accents - É vs E)
+Cần phân biệt chính xác giữa 'e' không dấu và 'é' (accent aigu). Các từ vựng khoa học hoặc danh từ cụ thể thường yêu cầu dấu chính xác để đảm bảo nghĩa. Ví dụ: "ecosystèmes" là sai chính tả, phải viết đúng là "écosystèmes".
+
+Quy tắc 3: Viết hoa danh từ riêng (Capitalization)
+Tất cả các tên riêng (Nom propre), tên người, tên địa danh hoặc tổ chức cần phải viết hoa chữ cái đầu tiên. Nếu dữ liệu đầu vào viết thường (ví dụ: "guinée"), hệ thống cần sửa thành viết hoa ("Guinée").
+
+Quy tắc 4: Quy tắc mạo từ trước nguyên âm (L'élision)
+Khi mạo từ xác định "le" hoặc "la" đứng trước một danh từ bắt đầu bằng nguyên âm (a, e, i, o, u) hoặc "h câm", ta phải lược âm thành "l'". Ví dụ: Không viết "le Équateur", phải viết là "l'Équateur".
+
+Quy tắc 5: Thỏa hiệp Tính từ và Danh từ (Accord de l'adjectif)
+Tính từ trong tiếng Pháp phải hợp giống (ực/cái) và hợp số (ít/nhiều) với danh từ mà nó bổ nghĩa. Ví dụ: "La tresse africaine" (giống cái) thay vì dùng dạng giống đực.
+
+Quy tắc 6: Khoảng trắng và Dấu chấm câu (Typography)
+Trong quy tắc soạn thảo tiếng Pháp, các dấu chấm câu kép (hai thành phần) như hai chấm (:), chấm phẩy (;), chấm than (!), chấm hỏi (?) cần có một khoảng trắng không ngắt (non-breaking space) ở phía trước. Dấu chấm (.) và dấu phẩy (,) viết liền vào từ trước đó.
+
+Quy tắc 7: Chia động từ (Conjugaison)
+Động từ phải được chia phù hợp với chủ ngữ và thì (temps) của câu. Cần chú ý đặc biệt đến các trợ động từ (Auxiliaires) "être" và "avoir" trong các thì quá khứ.
+
+Quy tắc 8: Giới từ chỉ địa danh (Prépositions de lieu)
+Sử dụng "en" cho các quốc gia giống cái (kết thúc bằng e) và "au" cho các quốc gia giống đực. Sử dụng "à" cho thành phố. Ví dụ: "en France", "au Japon", "à Paris".
+
+Quy tắc 9: Số từ và Ngày tháng (Nombres et Dates)
+Khi viết ngày tháng trong tiếng Pháp, không viết hoa tên tháng (ví dụ: "3 mai" chứ không phải "3 Mai"). Số thứ tự "premier" được viết tắt là "1er", các số còn lại dùng số thường.
+
+Quy tắc 10: Cấu trúc câu thụ động (Voix passive)
+Khi sử dụng thể thụ động với động từ "être", phân từ quá khứ (participe passé) phải hợp giống và số với chủ ngữ.
+
+#
+
+==================================================
+=== PHẦN 2: NGÂN HÀNG VÍ DỤ CHI TIẾT ===
+
+
+[NHÓM LỖI: AUXILIARY_VERB]
+Ví dụ sai: Ava Addams, née le  16 septembre 1979, a une actrice pornographique américaine.
+Sửa lại: Ava Addams, née le  16 septembre 1979, est une actrice pornographique américaine.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Un poste qu'il occupe jusqu'à la fin de son mandat.
+Sửa lại: Un poste qu'il occupe jusqu'à la fin de son mandat.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Gabriela invite Jay à une soirée pour goûter des whiskys.
+Sửa lại: Gabriela invite Jay à une soirée pour goûter des whiskys.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il joue dans un film d'Éric Rohmer, Conte d'automne.
+Sửa lại: Il joue dans un film d'Éric Rohmer, Conte d'automne.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La chanson fut diffusée le même jour que le film lui-même.
+Sửa lại: La chanson fut diffusée le même jour que le film lui-même.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Pierre Michel des Essarts, mort en 1794, a un chef vendéen.
+Sửa lại: Pierre Michel des Essarts, mort en 1794, est un chef vendéen.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le 13 novembre, la force atteint 82 avions disponibles.
+Sửa lại: Le 13 novembre, la force atteint 82 avions disponibles.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Dyneff s'a entre autre spécialisée dans le superéthanol E85.
+Sửa lại: Dyneff s'est entre autre spécialisée dans le superéthanol E85.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: De retour à la vie civile dans le Wurtemberg, il devient répétiteur.
+Sửa lại: De retour à la vie civile dans le Wurtemberg, il devient répétiteur.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le sarcophage de Baudime serait dans l'église de Saint-Nectaire.
+Sửa lại: Le sarcophage de Baudime serait dans l'église de Saint-Nectaire.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il a le septième plus haut gratte-ciel de la ville d'Austin.
+Sửa lại: Il est le septième plus haut gratte-ciel de la ville d'Austin.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Situation dans le département au  1 janvier 2018.
+Sửa lại: Situation dans le département au  1 janvier 2018.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Les 11 joueurs suivants ont inscrits à la draft.
+Sửa lại: Les 11 joueurs suivants sont inscrits à la draft.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La liste des noms gravés sur le mémorial a incomplète.
+Sửa lại: La liste des noms gravés sur le mémorial est incomplète.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La lèvre externe a aiguë ou faiblement réfléchie, souvent dentée.
+Sửa lại: La lèvre externe est aiguë ou faiblement réfléchie, souvent dentée.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le cunéiforme urartéen a une simplification du cunéiforme néo-assyrien.
+Sửa lại: Le cunéiforme urartéen est une simplification du cunéiforme néo-assyrien.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le pavillon présentera les déplacements depuis les explorateurs jusqu'à intelligence artificielle.
+Sửa lại: Le pavillon présentera les déplacements depuis les explorateurs jusqu'à intelligence artificielle.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Les 2e et  du régiment forment le régiment de Viennois.
+Sửa lại: Les 2e et  du régiment forment le régiment de Viennois.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La tresse française a une coiffure qui consiste à tresser les cheveux.
+Sửa lại: La tresse française est une coiffure qui consiste à tresser les cheveux.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le  13 août 2014, il reçoit la Médaille Fields.
+Sửa lại: Le  13 août 2014, il reçoit la Médaille Fields.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le groupe a un descendant de l_x0092_ancien constructeur aéronautique Kawanishi Kokuki.
+Sửa lại: Le groupe est un descendant de l_x0092_ancien constructeur aéronautique Kawanishi Kokuki.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Jonas Rickaert reçoit le prix de la combativité.
+Sửa lại: Jonas Rickaert reçoit le prix de la combativité.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Elle rétablit la clause générale de compétence des départements et des régions.
+Sửa lại: Elle rétablit la clause générale de compétence des départements et des régions.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Cependant, les monuments de la Seconde Guerre mondiale ont épargnés.
+Sửa lại: Cependant, les monuments de la Seconde Guerre mondiale sont épargnés.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Dès son lancement, le Saphir a affecté en Méditerranée.
+Sửa lại: Dès son lancement, le Saphir est affecté en Méditerranée.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le rapide 17 avril 1975, les Khmers rouges prennent le pouvoir.
+Sửa lại: Le rapide 17 avril 1975, les Khmers rouges prennent le pouvoir.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il naît à Paris dans le XVème arrondissement.
+Sửa lại: Il naît à Paris dans le XVème arrondissement.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: À Paris, le marché Saint-Martin s_x0092_écroule sous le poids de la neige.
+Sửa lại: À Paris, le marché Saint-Martin s_x0092_écroule sous le poids de la neige.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Ce réseau a découpé en trois zones : nord, est et ouest.
+Sửa lại: Ce réseau est découpé en trois zones : nord, est et ouest.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Niuas a le groupe d'îles des Tonga le plus septentrional.
+Sửa lại: Niuas est le groupe d'îles des Tonga le plus septentrional.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Ses livres ont publiés par les Éditions Sarbacane.
+Sửa lại: Ses livres sont publiés par les Éditions Sarbacane.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le jeux a en effet accusé de plagiat et d_x0092_arnaque.
+Sửa lại: Le jeux est en effet accusé de plagiat et d_x0092_arnaque.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Excellent fossile stratigraphique, Monograptus a un organisme marin planctonique.
+Sửa lại: Excellent fossile stratigraphique, Monograptus est un organisme marin planctonique.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La tiare était utilisée dans le couronnement des papes depuis 1877.
+Sửa lại: La tiare était utilisée dans le couronnement des papes depuis 1877.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Christian Bach, né le   9 mai 1959, a une actrice argentine-mexicaine.
+Sửa lại: Christian Bach, né le   9 mai 1959, est une actrice argentine-mexicaine.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le 23 août, la division franchit la Sambre à Jemappes.
+Sửa lại: Le 23 août, la division franchit la Sambre à Jemappes.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il a le frère de la patineuse artistique Loena Hendrickx..
+Sửa lại: Il est le frère de la patineuse artistique Loena Hendrickx..
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Dépassés par le nombre, les Républicains se replient sur Jodoigne.
+Sửa lại: Dépassés par le nombre, les Républicains se replient sur Jodoigne.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: La dernière édition a organisée dans le format classique à 32 joueurs.
+Sửa lại: La dernière édition est organisée dans le format classique à 32 joueurs.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: À chaque tour, une province différente a visitée.
+Sửa lại: À chaque tour, une province différente est visitée.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Avec cette victoire, le XV du Trèfle remporte le Tournoi.
+Sửa lại: Avec cette victoire, le XV du Trèfle remporte le Tournoi.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il est des origines Anglaises, Écossaises, Irlandaises, Allemandes et Australiennes.
+Sửa lại: Il a des origines Anglaises, Écossaises, Irlandaises, Allemandes et Australiennes.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Les Hay Babies a un trio d_x0092_auteures-compositrices-interprètes de musique indie folk.
+Sửa lại: Les Hay Babies est un trio d_x0092_auteures-compositrices-interprètes de musique indie folk.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le navire avait une capacité de 1400 passagers.
+Sửa lại: Le navire avait une capacité de 1400 passagers.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Le quatrième épisode a diffusé le 1 février 2014 à 21h00.
+Sửa lại: Le quatrième épisode est diffusé le 1 février 2014 à 21h00.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Les volets contiennent une Nativité, l_x0092_Annonciation et des scènes de la Passion.
+Sửa lại: Les volets contiennent une Nativité, l_x0092_Annonciation et des scènes de la Passion.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Il obtient le prix Victor-Rossel en 1987 pour Les Trois Frères.
+Sửa lại: Il obtient le prix Victor-Rossel en 1987 pour Les Trois Frères.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Aimer c_x0092_a être jaloux, être aimé, c_x0092_est être obéi.
+Sửa lại: Aimer c_x0092_est être jaloux, être aimé, c_x0092_est être obéi.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: Sur son socle figurent des bas-reliefs représentant le Rhône et la Saône.
+Sửa lại: Sur son socle figurent des bas-reliefs représentant le Rhône et la Saône.
+Loại lỗi: auxiliary_verb
+
+Ví dụ sai: En 1847, on bâtit deux bâtiments annexes : une boulangerie et une serre.
+Sửa lại: En 1847, on bâtit deux bâtiments annexes : une boulangerie et une serre.
+Loại lỗi: auxiliary_verb
+
+------------------------------
+
+[NHÓM LỖI: GENDER_NUMBER]
+Ví dụ sai: La catalase-peroxydase KatG du MTB dan le cas de l'isoniazide (INH).
+Sửa lại: La catalase-peroxydase KatG du MTB dans le cas de l'isoniazide (INH).
+Loại lỗi: gender_number
+
+Ví dụ sai: Cependant, les guerre tribales continuèrent et les Américains ne tinrent pas parole.
+Sửa lại: Cependant, les guerres tribales continuèrent et les Américains ne tinrent pas parole.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il est considérés comme l'un des Pères de la Confédération.
+Sửa lại: Il est considéré comme l'un des Pères de la Confédération.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il devient conseiller-maître à la Cour de comptes en 1869.
+Sửa lại: Il devient conseiller-maître à la Cour des comptes en 1869.
+Loại lỗi: gender_number
+
+Ví dụ sai: Le char O-I est l'ensembles des prototypes des chars super-lourds japonais.
+Sửa lại: Le char O-I est l'ensemble des prototypes des chars super-lourds japonais.
+Loại lỗi: gender_number
+
+Ví dụ sai: Les hérétique menacent, Marie et Bash lutte pour découvrir la vérité.
+Sửa lại: Les hérétiques menacent, Marie et Bash lutte pour découvrir la vérité.
+Loại lỗi: gender_number
+
+Ví dụ sai: Loves Song est le 30e single de Vanessa Paradis.
+Sửa lại: Love Song est le 30e single de Vanessa Paradis.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il est professeur à Pari et au Palais du Vatican.
+Sửa lại: Il est professeur à Paris et au Palais du Vatican.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il a une s_x009c_urs qui est également actrice au Chili.
+Sửa lại: Il a une s_x009c_ur qui est également actrice au Chili.
+Loại lỗi: gender_number
+
+Ví dụ sai: Waterdunens est une zone protégée sur les rives de l'Escaut.
+Sửa lại: Waterdunen est une zone protégée sur les rives de l'Escaut.
+Loại lỗi: gender_number
+
+Ví dụ sai: Voicis une liste non exhaustive des personnes ayant occupé ces postes.
+Sửa lại: Voici une liste non exhaustive des personnes ayant occupé ces postes.
+Loại lỗi: gender_number
+
+Ví dụ sai: Louis de Caters est le petit-fil de et de Luigi Lablache.
+Sửa lại: Louis de Caters est le petit-fils de   et de Luigi Lablache.
+Loại lỗi: gender_number
+
+Ví dụ sai: Wiekis Somers (Sprang-Capelle, 1976) est une designer néerlandaise.
+Sửa lại: Wieki Somers (Sprang-Capelle, 1976) est une designer néerlandaise.
+Loại lỗi: gender_number
+
+Ví dụ sai: Le film est sorti en salle le 15 novembres 2013 en Espagne.
+Sửa lại: Le film est sorti en salle le 15 novembre 2013 en Espagne.
+Loại lỗi: gender_number
+
+Ví dụ sai: Second Of Summer est un groupe de pop rock australien.
+Sửa lại: Seconds Of Summer est un groupe de pop rock australien.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il est la fondateur de l'école d'Uppsala.
+Sửa lại: Il est le fondateur de l'école d'Uppsala.
+Loại lỗi: gender_number
+
+Ví dụ sai: Ce nocturne est joué dans la film de Roman Polanski Le Pianiste.
+Sửa lại: Ce nocturne est joué dans le film de Roman Polanski Le Pianiste.
+Loại lỗi: gender_number
+
+Ví dụ sai: Ce symboles est censé apporter la prospérité.
+Sửa lại: Ce symbole est censé apporter la prospérité.
+Loại lỗi: gender_number
+
+Ví dụ sai: Cettes église est dédiée à la Vierge et à saint Jacques.
+Sửa lại: Cette église est dédiée à la Vierge et à saint Jacques.
+Loại lỗi: gender_number
+
+Ví dụ sai: Le shows est le deuxième pay-per-view de la WWE en 2014.
+Sửa lại: Le show est le deuxième pay-per-view de la WWE en 2014.
+Loại lỗi: gender_number
+
+Ví dụ sai: L'Étendard reçoit l'agrément du gouvernements pour la préparation militaire.
+Sửa lại: L'Étendard reçoit l'agrément du gouvernement pour la préparation militaire.
+Loại lỗi: gender_number
+
+Ví dụ sai: La communauté des biens est également établie.s
+Sửa lại: La communauté des biens est également établie.
+Loại lỗi: gender_number
+
+Ví dụ sai: Les crevettes Stegopontonia commensalis et Saron marmoratu sont aussi des commensaux fréquents.
+Sửa lại: Les crevettes  Stegopontonia commensalis et Saron marmoratus sont aussi des commensaux fréquents.
+Loại lỗi: gender_number
+
+Ví dụ sai: Centrostephanus tenuispinus est un espèce d'oursins de la famille des Diadematidae.
+Sửa lại: Centrostephanus tenuispinus est une espèce d'oursins de la famille des Diadematidae.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il est considéré commes un des plus beaux rotenburo du Japon.
+Sửa lại: Il est considéré comme un des plus beaux rotenburo du Japon.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il est le fil des musiciens Lone Koppel et John Winther.
+Sửa lại: Il est le fils des musiciens Lone Koppel et John Winther.
+Loại lỗi: gender_number
+
+Ví dụ sai: Toutefois, seul le président de le République avait un pouvoir de saisine.
+Sửa lại: Toutefois, seul le président de la République avait un pouvoir de saisine.
+Loại lỗi: gender_number
+
+Ví dụ sai: La rechta dzirïa est un spécialité de la gastronomie algéroise.
+Sửa lại: La rechta dzirïa est une spécialité de la gastronomie algéroise.
+Loại lỗi: gender_number
+
+Ví dụ sai: Canidie , est une magicienne,s une sorcière de l'Antiquité romaine.
+Sửa lại: Canidie , est une magicienne, une sorcière de l'Antiquité romaine.
+Loại lỗi: gender_number
+
+Ví dụ sai: À 3-0 ou 3-1,s les Fennecs se qualifiaient.
+Sửa lại: À 3-0 ou 3-1, les Fennecs se qualifiaient.
+Loại lỗi: gender_number
+
+Ví dụ sai: En 2011,s le parc entre dans une nouvelle ère de son développement.
+Sửa lại: En 2011, le parc entre dans une nouvelle ère de son développement.
+Loại lỗi: gender_number
+
+Ví dụ sai: Le couple a trois fille Ilse, Margaret et Hildegard.
+Sửa lại: Le couple a trois filles Ilse, Margaret et Hildegard.
+Loại lỗi: gender_number
+
+Ví dụ sai: Il écrit sur la science, la philosophies et l'intelligence.
+Sửa lại: Il écrit sur la science, la philosophie et l'intelligence.
+Loại lỗi: gender_number
+
+Ví dụ sai: Cet album est sortis le 25 novembre 2013.
+Sửa lại: Cet album est sorti le  25 novembre 2013.
+Loại lỗi: gender_number
+
+Ví dụ sai: État actif: Le processeurs d'application est opérationnel.
+Sửa lại: État actif: Le processeur d'application est opérationnel.
+Loại lỗi: gender_number
+
+Ví dụ sai: À la qualification pour le concour individuel, il n'arrive que 47e.
+Sửa lại: À la qualification pour le concours individuel, il n'arrive que 47e.
+Loại lỗi: gender_number
+
+Ví dụ sai: La gares d'Éséka est construite avant la Première Guerre mondiale.
+Sửa lại: La gare d'Éséka est construite avant la Première Guerre mondiale.
+Loại lỗi: gender_number
+
+Ví dụ sai: C_x0092_est-à-dire que le météorologiques suivait le déplacement des systèmes, des courant-jets, etc.
+Sửa lại: C_x0092_est-à-dire que le météorologique suivait le déplacement des systèmes, des courant-jets, etc.
+Loại lỗi: gender_number
+
+Ví dụ sai: Le yacht fait un longueur de 70.70 mètres (232 pieds).
+Sửa lại: Le yacht fait une longueur de 70.70 mètres (232 pieds).
+Loại lỗi: gender_number
+
+Ví dụ sai: Certains clubs, comme le FC Andorra, jouent dans de compétitions espagnoles.
+Sửa lại: Certains clubs, comme le FC Andorra, jouent dans des compétitions espagnoles.
+Loại lỗi: gender_number
+
+Ví dụ sai: Pour Alain de Benoists , Jünger semble confondre totalitarisme et nihilisme.
+Sửa lại: Pour Alain de Benoist , Jünger semble confondre totalitarisme et nihilisme.
+Loại lỗi: gender_number
+
+Ví dụ sai: La péniches est rachetée en 2006 par la fondation Louise-Catherine.
+Sửa lại: La péniche est rachetée en 2006 par la fondation Louise-Catherine.
+Loại lỗi: gender_number
+
+Ví dụ sai: Les Turcs frappents les premiers avec une victoire 7-4 sur les nordiques.
+Sửa lại: Les Turcs frappent les premiers avec une victoire 7-4 sur les nordiques.
+Loại lỗi: gender_number
+
+Ví dụ sai: Actuellements les IEM en sont à leur dixième saison.
+Sửa lại: Actuellement les IEM en sont à leur dixième saison.
+Loại lỗi: gender_number
+
+Ví dụ sai: L'économies de Nozawa onsen est basée sur l'agriculture et le tourisme saisonnier.
+Sửa lại: L'économie de Nozawa onsen est basée sur l'agriculture et le tourisme saisonnier.
+Loại lỗi: gender_number
+
+Ví dụ sai: Robert-Daniels Etchecopar fut aussi peintre et sculpteur.
+Sửa lại: Robert-Daniel Etchecopar fut aussi peintre et sculpteur.
+Loại lỗi: gender_number
+
+Ví dụ sai: la Parlement vote le même jour la libération de Ioulia Tymochenko.
+Sửa lại: Le Parlement vote le même jour la libération de Ioulia Tymochenko.
+Loại lỗi: gender_number
+
+------------------------------
+
+[NHÓM LỖI: PUNCTUATION]
+Ví dụ sai: Le chevalement et les bâtiments annexes échappent à la démolition
+Sửa lại: Le chevalement et les bâtiments annexes échappent à la démolition.
+Loại lỗi: punctuation
+
+Ví dụ sai: Le général Artúr Görgey fut nominé mais le refusa
+Sửa lại: Le général Artúr Görgey fut nominé mais le refusa.
+Loại lỗi: punctuation
+
+Ví dụ sai: Pour aider son père Carl enlève des chiens et demande une rançon
+Sửa lại: Pour aider son père Carl enlève des chiens et demande une rançon.
+Loại lỗi: punctuation
+
+Ví dụ sai: Elles sont les deuxièmes plus hautes chutes de l'Inde  .
+Sửa lại: Elles sont les deuxièmes plus hautes chutes de l'Inde .
+Loại lỗi: punctuation
+
+Ví dụ sai: Le traité d'Arras, signé le 23 décembre 1482, conclut les négociations .
+Sửa lại: Le traité d'Arras, signé le 23 décembre 1482, conclut les négociations.
+Loại lỗi: punctuation
+
+Ví dụ sai: Juan, Sara et Alban reprennent alors la route pour les États-Unis .
+Sửa lại: Juan, Sara et Alban reprennent alors la route pour les États-Unis.
+Loại lỗi: punctuation
+
+Ví dụ sai: Un mètre quatre-vingt dix pour cent cinquante kilos
+Sửa lại: Un mètre quatre-vingt dix pour cent cinquante kilos.
+Loại lỗi: punctuation
+
+Ví dụ sai: Billy Wong est un flic dur-à-cuire de New York
+Sửa lại: Billy Wong est un flic dur-à-cuire de New York.
+Loại lỗi: punctuation
+
+Ví dụ sai: Il est représenté en Mayenne par Jean Taslé et Verger
+Sửa lại: Il est représenté en Mayenne par Jean Taslé et Verger.
+Loại lỗi: punctuation
+
+Ví dụ sai: Ainsi les Tarquiniens vainquirent les Romains, mais les Veiens furent refoulés
+Sửa lại: Ainsi les Tarquiniens vainquirent les Romains, mais les Veiens furent refoulés.
+Loại lỗi: punctuation
+
+Ví dụ sai: Amberstar est un jeu de rôle développé par Thalion Software
+Sửa lại: Amberstar est un jeu de rôle développé par Thalion Software.
+Loại lỗi: punctuation
+
+Ví dụ sai: Le mur pignon est haussé et la pente du toit adoucie
+Sửa lại: Le mur pignon est haussé et la pente du toit adoucie.
+Loại lỗi: punctuation
+
+Ví dụ sai: Il est député au Seimas entre 1992 et 2008
+Sửa lại: Il est député au Seimas entre 1992 et 2008.
+Loại lỗi: punctuation
+
+Ví dụ sai: Le 80 km du Mont-Blanc est créé en 2013
+Sửa lại: Le 80 km du Mont-Blanc est créé en 2013.
+Loại lỗi: punctuation
+
+Ví dụ sai: La famille vit dans Grosse Pointe Farms, Michigan
+Sửa lại: La famille vit dans Grosse Pointe Farms, Michigan.
+Loại lỗi: punctuation
+
+Ví dụ sai: Les parisiens remportent la finale contre les lillois
+Sửa lại: Les parisiens remportent la finale contre les lillois.
+Loại lỗi: punctuation
+
+Ví dụ sai: La machine d'extraction installée en 1911 est de marque Siemens-Schukert-Werke
+Sửa lại: La machine d'extraction installée en 1911 est de marque Siemens-Schukert-Werke.
+Loại lỗi: punctuation
+
+Ví dụ sai: Relictocera mus est une espèce d'araignées aranéomorphes de la famille des Psilodercidae
+Sửa lại: Relictocera mus est une espèce d'araignées aranéomorphes de la famille des Psilodercidae.
+Loại lỗi: punctuation
+
+Ví dụ sai: Les outils techniques ont évolué avec les différents projets
+Sửa lại: Les outils techniques ont évolué avec les différents projets.
+Loại lỗi: punctuation
+
+Ví dụ sai: Où z b sont tous deux complexes et ? est un paramètre.
+Sửa lại: Où z, b sont tous deux complexes et ? est un paramètre.
+Loại lỗi: punctuation
+
+Ví dụ sai: Au niveau national, elle est triple championne des États-Unis
+Sửa lại: Au niveau national, elle est triple championne des États-Unis.
+Loại lỗi: punctuation
+
+Ví dụ sai: Des halles sont mentionnées à Craon dès le XIIe siècle .
+Sửa lại: Des halles sont mentionnées à Craon dès le XIIe siècle.
+Loại lỗi: punctuation
+
+Ví dụ sai: Dans les autres disciplines, il y a aussi des pilotes-payant .
+Sửa lại: Dans les autres disciplines, il y a aussi des pilotes-payant.
+Loại lỗi: punctuation
+
+Ví dụ sai: La gagnante est Herciana Matmuja, avec la chanson Zemërimi i një nate.
+Sửa lại: La gagnante est Herciana Matmuja, avec la chanson Zemërimi i një nate..
+Loại lỗi: punctuation
+
+Ví dụ sai: Cet album est sorti le  21 novembre 2013 .
+Sửa lại: Cet album est sorti le  21 novembre 2013.
+Loại lỗi: punctuation
+
+Ví dụ sai: C'est d'habitude une caractéristique des formerets de la nef .
+Sửa lại: C'est d'habitude une caractéristique des formerets de la nef.
+Loại lỗi: punctuation
+
+Ví dụ sai: La marine estonienne a été fondée le 21 novembre 1918
+Sửa lại: La marine estonienne a été fondée le 21 novembre 1918.
+Loại lỗi: punctuation
+
+Ví dụ sai: Dans les autres disciplines, il y a aussi des pilotes payant
+Sửa lại: Dans les autres disciplines, il y a aussi des pilotes payant.
+Loại lỗi: punctuation
+
+Ví dụ sai: Franceska Jaimes est la Penthouse Pet d' avril 2011
+Sửa lại: Franceska Jaimes est la Penthouse Pet d' avril 2011.
+Loại lỗi: punctuation
+
+Ví dụ sai: Une pneumonie peut s'ensuivre comme une infection bactérienne secondaire
+Sửa lại: Une pneumonie peut s'ensuivre comme une infection bactérienne secondaire.
+Loại lỗi: punctuation
+
+Ví dụ sai: Mimi et Toutou furent assemblés et lancés un peu avant Noël 1915
+Sửa lại: Mimi et Toutou furent assemblés et lancés un peu avant Noël 1915.
+Loại lỗi: punctuation
+
+Ví dụ sai: Les autres joueurs en retirent une pour arriver à treize au finale
+Sửa lại: Les autres joueurs en retirent une pour arriver à treize au finale.
+Loại lỗi: punctuation
+
+Ví dụ sai: Anaïs et Joséphine : Anaïs a 14-15 ans et est au collège
+Sửa lại: Anaïs et Joséphine : Anaïs a 14-15 ans et est au collège.
+Loại lỗi: punctuation
+
+Ví dụ sai: Ils entrent dans la composition d'adhésifs et de liants
+Sửa lại: Ils entrent dans la composition d'adhésifs et de liants.
+Loại lỗi: punctuation
+
+Ví dụ sai: Ce quartier est renommé pour être le foyer de l'anarchisme en Grèce
+Sửa lại: Ce quartier est renommé pour être le foyer de l'anarchisme en Grèce.
+Loại lỗi: punctuation
+
+Ví dụ sai: La Caisse est alors située rue de l'Oratoire à Paris .
+Sửa lại: La Caisse est alors située rue de l'Oratoire à Paris.
+Loại lỗi: punctuation
+
+Ví dụ sai: La majorité des survivants fut contrainte à l'exil
+Sửa lại: La majorité des survivants fut contrainte à l'exil.
+Loại lỗi: punctuation
+
+Ví dụ sai: Aurore Erguy est une actrice française née le  3 août 1979
+Sửa lại: Aurore Erguy est une actrice française née le  3 août 1979.
+Loại lỗi: punctuation
+
+Ví dụ sai: Le Kaiser devait être livré en août 1919 au Royaume-Uni
+Sửa lại: Le Kaiser devait être livré en août 1919 au Royaume-Uni.
+Loại lỗi: punctuation
+
+Ví dụ sai: Les actionnaires majoritaires sont Lafarge et Eiffage auquel s'ajoute le transporteur Cassier.
+Sửa lại: Les actionnaires majoritaires sont Lafarge et Eiffage, auquel s'ajoute le transporteur Cassier.
+Loại lỗi: punctuation
+
+Ví dụ sai: Thaiderces djojosudharmoi est une espèce d'araignées aranéomorphes de la famille des Psilodercidae
+Sửa lại: Thaiderces djojosudharmoi est une espèce d'araignées aranéomorphes de la famille des Psilodercidae.
+Loại lỗi: punctuation
+
+Ví dụ sai: Une cité ouvrière pour héberger le personnel est édifiée
+Sửa lại: Une cité ouvrière pour héberger le personnel est édifiée.
+Loại lỗi: punctuation
+
+Ví dụ sai: L'adjectif relatif à l'Au-Delà-des-Monts est pumuntincu
+Sửa lại: L'adjectif relatif à l'Au-Delà-des-Monts est pumuntincu.
+Loại lỗi: punctuation
+
+Ví dụ sai: Aurore Erguy est une actrice française née le  3 août 1980
+Sửa lại: Aurore Erguy est une actrice française née le  3 août 1980.
+Loại lỗi: punctuation
+
+Ví dụ sai: Les chanoines ont cherché refuge dans la ville fortifiée de Maaseik
+Sửa lại: Les chanoines ont cherché refuge dans la ville fortifiée de Maaseik.
+Loại lỗi: punctuation
+
+Ví dụ sai: Il est compris entre 2 et 5  ?s
+Sửa lại: Il est compris entre 2 et 5  ?s.
+Loại lỗi: punctuation
+
+Ví dụ sai: Ramajendas dastychi est une espèce de tardigrades de la famille des Ramazzottiidae
+Sửa lại: Ramajendas dastychi est une espèce de tardigrades de la famille des Ramazzottiidae.
+Loại lỗi: punctuation
+
+Ví dụ sai: ANO 2011 est un parti politique tchèque d'orientation libérale
+Sửa lại: ANO 2011 est un parti politique tchèque d'orientation libérale.
+Loại lỗi: punctuation
+
+------------------------------
+
+[NHÓM LỖI: SPELLING]
+Ví dụ sai: Stomopneustes variolaris a La Reunion (avec des Echinometra mathaei).
+Sửa lại: Stomopneustes variolaris à La Réunion (avec des Echinometra mathaei).
+Loại lỗi: spelling
+
+Ví dụ sai: Lepthercus dregei est une espece d'araignees mygalomorphes de la famille des Entypesidae.
+Sửa lại: Lepthercus dregei est une espèce d'araignées mygalomorphes de la famille des Entypesidae.
+Loại lỗi: spelling
+
+Ví dụ sai: La tresse francaise est une coiffure qui consiste a tresser les cheveux.
+Sửa lại: La tresse française est une coiffure qui consiste à tresser les cheveux.
+Loại lỗi: spelling
+
+Ví dụ sai: A l'observatoire de Villanubla, les temperatures sont plus basses.
+Sửa lại: À l'observatoire de Villanubla, les températures sont plus basses.
+Loại lỗi: spelling
+
+Ví dụ sai: Le protocole s'appuie sur un ensemble de serveurs de re-transmission des messages.
+Sửa lại: Le protocole s'appuie sur un ensemble de serveurs de re-transmission des messages.
+Loại lỗi: spelling
+
+Ví dụ sai: Il s'interessa a la mecanique et est auteur des versets d'amour.
+Sửa lại: Il s'intéressa à la mécanique et est auteur des versets d'amour.
+Loại lỗi: spelling
+
+Ví dụ sai: Comme precedemment, Dam assure la partie musicale et Steve la partie vocale.
+Sửa lại: Comme précédemment, Dâm assure la partie musicale et Steve la partie vocale.
+Loại lỗi: spelling
+
+Ví dụ sai: La tresse francaise est une coiffure qui consiste a tresser les cheveux.
+Sửa lại: La tresse française est une coiffure qui consiste à tresser les cheveux.
+Loại lỗi: spelling
+
+Ví dụ sai: Le cinquieme episode est diffuse le 8 fevrier 2014 a 20h50.
+Sửa lại: Le cinquième épisode est diffusé le 8 février 2014 à 20h50.
+Loại lỗi: spelling
+
+Ví dụ sai: Claire Zalc, nee le  8 mars 1971, est une historiene francaise.
+Sửa lại: Claire Zalc, née le  8 mars 1971, est une historiene française.
+Loại lỗi: spelling
+
+Ví dụ sai: Nikólaos Makarezos est ne en 1919 a  dans la prefecture de Phocide.
+Sửa lại: Nikólaos Makarézos est né en 1919 à  dans la préfecture de Phocide.
+Loại lỗi: spelling
+
+Ví dụ sai: Macrobiotus acadianus est une espece de tardigrades de la famille des Macrobiotidae.
+Sửa lại: Macrobiotus acadianus est une espèce de tardigrades de la famille des Macrobiotidae.
+Loại lỗi: spelling
+
+Ví dụ sai: Dans la lignee des grands super-heros tels que Superman, Batman ou Daredevil.
+Sửa lại: Dans la lignée des grands super-héros tels que Superman, Batman ou Daredevil.
+Loại lỗi: spelling
+
+Ví dụ sai: Cette attaque s'inscrit dans la guerre civile de Centrafrique.
+Sửa lại: Cette attaque s'inscrit dans la guerre civile de Centrafrique.
+Loại lỗi: spelling
+
+Ví dụ sai: Cependant, il tient dans Le Journal des debats une Chronique d'aeronautique.
+Sửa lại: Cependant, il tient dans Le Journal des débats une Chronique d'aéronautique.
+Loại lỗi: spelling
+
+Ví dụ sai: Bebe Bouddha et Le Vegetarien ont ete adaptes au cinema.
+Sửa lại: Bébé Bouddha et Le Végétarien ont été adaptés au cinéma.
+Loại lỗi: spelling
+
+Ví dụ sai: Une seconde saison est annoncee en mars 2015.
+Sửa lại: Une seconde saison est annoncée en mars 2015.
+Loại lỗi: spelling
+
+Ví dụ sai: Neilson est un patronyme (nom) signifiant « fils de  ».
+Sửa lại: Neilson est un patronyme (nom) signifiant « fils de  ».
+Loại lỗi: spelling
+
+Ví dụ sai: Pologne et la Russie refusent l'invitation, pour des raisons politiques.
+Sửa lại: Pologne et la Russie refusent l'invitation, pour des raisons politiques.
+Loại lỗi: spelling
+
+Ví dụ sai: Elle l'a empruntee sans autorisation, pour une duree encore inconnue.
+Sửa lại: Elle l'a empruntée sans autorisation, pour une durée encore inconnue.
+Loại lỗi: spelling
+
+Ví dụ sai: Le MS Togo est lance pour commercer avec les pays africains.
+Sửa lại: Le MS Togo est lancé pour commercer avec les pays africains.
+Loại lỗi: spelling
+
+Ví dụ sai: La zone autour du port a ete construite dans les annees 1930.
+Sửa lại: La zone autour du port a été construite dans les années 1930.
+Loại lỗi: spelling
+
+Ví dụ sai: C. Staff est diffusee entre avril et  juillet 2019.
+Sửa lại: C. Staff est diffusée entre avril et  juillet 2019.
+Loại lỗi: spelling
+
+Ví dụ sai: Nicolas Dupont-Aignan et Jean-Frederic Poisson y sont passes.
+Sửa lại: Nicolas Dupont-Aignan et Jean-Frédéric Poisson y sont passés.
+Loại lỗi: spelling
+
+Ví dụ sai: Le cinquieme episode est diffuse le 8 fevrier 2014 a 21h00.
+Sửa lại: Le cinquième épisode est diffusé le 8 février 2014 à 21h00.
+Loại lỗi: spelling
+
+Ví dụ sai: Elle inclut une caverne ayant des cristaux de glace.
+Sửa lại: Elle inclut une caverne ayant des cristaux de glace.
+Loại lỗi: spelling
+
+Ví dụ sai: L'exploitation de la source d'eau salee est codifiee depuis le Moyen Âge.
+Sửa lại: L'exploitation de la source d'eau salée est codifiée depuis le Moyen Âge.
+Loại lỗi: spelling
+
+Ví dụ sai: Le  est un cap situe cote est de la baie de Tokyo.
+Sửa lại: Le  est un cap situé côté est de la baie de Tokyo.
+Loại lỗi: spelling
+
+Ví dụ sai: Le chateau est aujourd'hui propriete privee et ferme a la visite.
+Sửa lại: Le château est aujourd'hui propriété privée et fermé à la visite.
+Loại lỗi: spelling
+
+Ví dụ sai: Le quartier est qualifie de dynamique et huppes.
+Sửa lại: Le quartier est qualifié de dynamique et huppés.
+Loại lỗi: spelling
+
+Ví dụ sai: Les 13 joueurs suivants sont inscrits a la draft.
+Sửa lại: Les 13 joueurs suivants sont inscrits à la draft.
+Loại lỗi: spelling
+
+Ví dụ sai: L'eglise est vendue comme bien national a la Revolution.
+Sửa lại: L'église est vendue comme bien national à la Révolution.
+Loại lỗi: spelling
+
+Ví dụ sai: Ca et la, un quelque chose se trame.
+Sửa lại: Ça et là, un quelque chose se trame.
+Loại lỗi: spelling
+
+Ví dụ sai: Les Espaces et les Sentiments est le 31e single de Vanessa Paradis.
+Sửa lại: Les Espaces et les Sentiments est le 31e single de Vanessa Paradis.
+Loại lỗi: spelling
+
+Ví dụ sai: Cet album est sorti le  25 novembre 2013.
+Sửa lại: Cet album est sorti le  25 novembre 2013.
+Loại lỗi: spelling
+
+Ví dụ sai: Il est decore de l'ordre de la Culture du Japon.
+Sửa lại: Il est décoré de l'ordre de la Culture du Japon.
+Loại lỗi: spelling
+
+Ví dụ sai: Apres l'insurrection des Cipayes, il fait eriger le memorial Bibi-Ghar .
+Sửa lại: Après l'insurrection des Cipayes, il fait ériger le mémorial Bibi-Ghar .
+Loại lỗi: spelling
+
+Ví dụ sai: Anne Dufourmantelle, nee en 1964, est une psychanalyste et philosophe francaise.
+Sửa lại: Anne Dufourmantelle, née en 1964, est une psychanalyste et philosophe française.
+Loại lỗi: spelling
+
+Ví dụ sai: Une priere tres recitee leur est dediee: la Mantra Namaskara.
+Sửa lại: Une prière très récitée leur est dédiée: la Mantra Namaskara.
+Loại lỗi: spelling
+
+Ví dụ sai: Palais Baviera, fontaine des Canards et place du Duc.
+Sửa lại: Palais Baviera, fontaine des Canards et place du Duc.
+Loại lỗi: spelling
+
+Ví dụ sai: Les quatre premieres equipes se qualifient pour les phases finales.
+Sửa lại: Les quatre premières équipes se qualifient pour les phases finales.
+Loại lỗi: spelling
+
+Ví dụ sai: Il est ministre des infrastructures et des transports terrestre et du desenclavement.
+Sửa lại: Il est ministre des infrastructures et des transports terrestre et du désenclavement.
+Loại lỗi: spelling
+
+Ví dụ sai: Mesobiotus zhejiangensis est une espece de tardigrades de la famille des Macrobiotidae.
+Sửa lại: Mesobiotus zhejiangensis est une espèce de tardigrades de la famille des Macrobiotidae.
+Loại lỗi: spelling
+
+Ví dụ sai: Tous les membres peuvent repondre aux requetes des clients.
+Sửa lại: Tous les membres peuvent répondre aux requêtes des clients.
+Loại lỗi: spelling
+
+Ví dụ sai: Angelo et Sila : Angelo a 19-20 ans et est au college.
+Sửa lại: Angelo et Sila : Angelo a 19-20 ans et est au collège.
+Loại lỗi: spelling
+
+Ví dụ sai: La victoire se joue entre deux Norvegiens et trois Allemands.
+Sửa lại: La victoire se joue entre deux Norvégiens et trois Allemands.
+Loại lỗi: spelling
+
+Ví dụ sai: Il les a tous reunis pour connaitre la verite.
+Sửa lại: Il les a tous réunis pour connaitre la vérité.
+Loại lỗi: spelling
+
+Ví dụ sai: Auparavant, les boues contamines etait deversees dans la mer du Nord.
+Sửa lại: Auparavant, les boues contaminés était déversées dans la mer du Nord.
+Loại lỗi: spelling
+
+------------------------------
+
+[NHÓM LỖI: VERB_CONJUGATION]
+Ví dụ sai: Les coques a été les premières à être assemblées par soudage électrique.
+Sửa lại: Les coques ont été les premières à être assemblées par soudage électrique.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les ministres coréens et mandchous est liés par des mariages d'alliance.
+Sửa lại: Les ministres coréens et mandchous sont liés par des mariages d'alliance.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: À l'époque anglo-saxonne, Pucklechurch sont une propriété des rois du Wessex.
+Sửa lại: À l'époque anglo-saxonne, Pucklechurch est une propriété des rois du Wessex.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: L'Observatoire des cétacés de Polynésie (OCP) sont un organisme de recherche cétologique.
+Sửa lại: L'Observatoire des cétacés de Polynésie (OCP) est un organisme de recherche cétologique.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: L'unité sont située sur le campus de l'université de Lille 1.
+Sửa lại: L'unité est située sur le campus de l'université de Lille 1.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Phantom sont un homme aux cheveux rouges coupés court.
+Sửa lại: Phantom est un homme aux cheveux rouges coupés court.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les 16 joueurs suivants est inscrits à la draft.
+Sửa lại: Les 16 joueurs suivants sont inscrits à la draft.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Il contie une collaboration avec le rappeur Silento: Volcano.
+Sửa lại: Il contient une collaboration avec le rappeur Silento: Volcano.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: L'actuel roi du Bhoutan sont Jigme Khesar Wangchuck.
+Sửa lại: L'actuel roi du Bhoutan est Jigme Khesar Wangchuck.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: La chaîne ont annoncé la production d'un téléfilm pour clôturer la série.
+Sửa lại: La chaîne a annoncé la production d'un téléfilm pour clôturer la série.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Anaïs et Joséphine : Anaïs ont 18-19 ans et est au collège.
+Sửa lại: Anaïs et Joséphine : Anaïs a 18-19 ans et est au collège.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Pour la Sainte Ligue, au total 208 galère et 6 galéasses.
+Sửa lại: Pour la Sainte Ligue, au total 208 galère et 6 galéasses.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Quelque 1800 bombes est lancées et 780 maisons détruites.
+Sửa lại: Quelque 1800 bombes sont lancées et 780 maisons détruites.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les chiffres est connus grâce à la station des Bernardins, à Beaumes-de-Venise.
+Sửa lại: Les chiffres sont connus grâce à la station des Bernardins, à Beaumes-de-Venise.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Cette partie horizontale sont accessible par une passerelle de contrôle.
+Sửa lại: Cette partie horizontale est accessible par une passerelle de contrôle.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Malgré le désespoir de Kriemhild, les princes burgondes protège Hagen.
+Sửa lại: Malgré le désespoir de Kriemhild, les princes burgondes protègent Hagen.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Gnathocinara sont un genre de papillons de la famille des Bombycidae.
+Sửa lại: Gnathocinara est un genre de papillons de la famille des Bombycidae.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Cet article recense les divinitéus de la mythologie grecque.
+Sửa lại: Cet article recense les divinitéus de la mythologie grecque.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Millard Harmon sont un général américain de la Seconde Guerre mondiale.
+Sửa lại: Millard Harmon est un général américain de la Seconde Guerre mondiale.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Daphné sont une nymphe, fille du dieu fleuve Pénée.
+Sửa lại: Daphné est une nymphe, fille du dieu fleuve Pénée.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Ramazzottius nivalis  sont une espèce de tardigrades de la famille des Ramazzottiidae.
+Sửa lại: Ramazzottius nivalis  est une espèce de tardigrades de la famille des Ramazzottiidae.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Le chèo sont un des types d'art populaire du Vietnam.
+Sửa lại: Le chèo est un des types d'art populaire du Vietnam.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Mekonglema xinpingi sont une espèce d'araignées aranéomorphes de la famille des Telemidae.
+Sửa lại: Mekonglema xinpingi est une espèce d'araignées aranéomorphes de la famille des Telemidae.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Un artisanat se développe dans la construction et le textile.
+Sửa lại: Un artisanat se développe dans la construction et le textile.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les polypes festonnés est une classe de polype colorectal.
+Sửa lại: Les polypes festonnés sont une classe de polype colorectal.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Le bateau subit une importante rénovation intérieure en 2005.
+Sửa lại: Le bateau subit une importante rénovation intérieure en 2005.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les deux condensateurs est chargés en parallèle à la même tension.
+Sửa lại: Les deux condensateurs sont chargés en parallèle à la même tension.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Le comté d'Edesse sont le tout premier des États latins d'Orient.
+Sửa lại: Le comté d'Edesse est le tout premier des États latins d'Orient.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Il sont admis à la retraite le 9 avril 1816.
+Sửa lại: Il est admis à la retraite le 9 avril 1816.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les trois personnes présentes à bord périsse dans la catastrophe.
+Sửa lại: Les trois personnes présentes à bord périssent dans la catastrophe.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Pour la Sainte Ligue, au total 202 galère et 6 galéasses.
+Sửa lại: Pour la Sainte Ligue, au total 202 galère et 6 galéasses.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: De nombreuses ascensions se font par les faces sont et ouest.
+Sửa lại: De nombreuses ascensions se font par les faces est et ouest.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Jean-Claude Elfassi sont un journaliste et photographe français.
+Sửa lại: Jean-Claude Elfassi est un journaliste et photographe français.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: En 1966, il sont secrétaire de la coordination de la CNT vénézuélienne.
+Sửa lại: En 1966, il est secrétaire de la coordination de la CNT vénézuélienne.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les sources de données se trouve en détail dans les Wikimedia Commons.
+Sửa lại: Les sources de données se trouvent en détail dans les Wikimedia Commons.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Amber parle couramme l'Anglais, le Mandarin et le Coréen.
+Sửa lại: Amber parle couramment l'Anglais, le Mandarin et le Coréen.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Diane sont furieuse contre Matrona, mais reste dans son équipe.
+Sửa lại: Diane est furieuse contre Matrona, mais reste dans son équipe.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: À la libération, il organise la galerie Daunou à Paris.
+Sửa lại: À la libération, il organise la galerie Daunou à Paris.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Isiaka Olawale, né le 11 novembre 1983, sont un footballeur international nigérian.
+Sửa lại: Isiaka Olawale, né le 11 novembre 1983, est un footballeur international nigérian.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Le premier directeur de VOA-PNN sont Ahmad Reza Baharlou.
+Sửa lại: Le premier directeur de VOA-PNN est Ahmad Reza Baharlou.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les elpistostegaliens est considérés comme le groupe-frère de tous les tétrapodes.
+Sửa lại: Les elpistostegaliens sont considérés comme le groupe-frère de tous les tétrapodes.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Situation dans le départeme au  1 janvier 2017.
+Sửa lại: Situation dans le département au  1 janvier 2017.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Les 51 membres d'équipage meure dans cette attaque.
+Sửa lại: Les 51 membres d'équipage meurent dans cette attaque.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Le climat de Loir-et-Cher sont de nature océanique.
+Sửa lại: Le climat de Loir-et-Cher est de nature océanique.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: En 1986, il reçoit la médaille présidentielle de la Liberté.
+Sửa lại: En 1986, il reçoit la médaille présidentielle de la Liberté.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: *Le typhon Haiyan dévaste les Philippines et une partie du Vietnam.
+Sửa lại: *Le typhon Haiyan dévaste les Philippines et une partie du Vietnam.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Erasmushogeschool Brussel (EhB) sont une haute école de la Communauté flamande de Belgique.
+Sửa lại: Erasmushogeschool Brussel (EhB) est une haute école de la Communauté flamande de Belgique.
+Loại lỗi: verb_conjugation
+
+Ví dụ sai: Il est égaleme un joueur de Sh?gi.
+Sửa lại: Il est également un joueur de Sh?gi.
+Loại lỗi: verb_conjugation
+
+------------------------------
